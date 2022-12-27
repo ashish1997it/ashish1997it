@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashish1997it
-- 👀 I’m interested in ...
+- 👀 I’m interested in Python, Django
 - 🌱 I’m currently learning DataScience
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me ... ashish1997it@gmail.com
